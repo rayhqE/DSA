@@ -2,7 +2,7 @@ package FunctionsndMethods;
 
 import java.util.Scanner;
 
-public class Find_Greater {
+public class Find_Greater_Among_TwoNumbers {
     public static int findGreater(int a, int b) {
         if (a > b) {
             return a;
